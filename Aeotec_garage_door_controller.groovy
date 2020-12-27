@@ -21,7 +21,7 @@
 */
 
  metadata {
-	definition (name: "Aeon Garage door controller", namespace: "maticslaszlo", author: "Laszlo Matics") {
+	definition (name: "Aeotec Garage door controller", namespace: "maticslaszlo", author: "Laszlo Matics") {
 		capability "Alarm" // 0x71 Notification v4
 		capability "Battery"
 		capability "Switch" // 0x25 Switch Binary v1
